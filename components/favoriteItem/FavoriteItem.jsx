@@ -1,13 +1,13 @@
 import { Text,View } from "react-native"
 
-const ProductDetails = () => {
+const FavoriteItem = () => {
   return (
     <View>
         <Text>
-            Product Details screen
+            Fav Items
         </Text>
     </View>
   )
 }
 
-export default ProductDetails
+export default FavoriteItem

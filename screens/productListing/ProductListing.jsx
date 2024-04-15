@@ -1,13 +1,13 @@
 import { Text,View } from "react-native"
 
-const ProductDetails = () => {
+const ProductListing = () => {
   return (
     <View>
         <Text>
-            Product Details screen
+            Prod listing screen
         </Text>
     </View>
   )
 }
 
-export default ProductDetails
+export default ProductListing
